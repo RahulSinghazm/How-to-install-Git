@@ -22,3 +22,39 @@ sudo apt-get upgrade
 sudo apt-get install git
 You can use Git now.
 
+
+
+
+## Red Hat-based linux systems
+Open a terminal. Copy & paste the following into the terminal window and hit Return. You may be prompted to enter your password.
+
+sudo yum upgrade
+sudo yum install git
+You can use Git now.
+
+
+
+# Installing Git on a Mac
+Open a terminal window.
+
+## Step 1 – Install Homebrew
+Homebrew […] simplifies the installation of software on the Mac OS X operating system.
+
+– Homebrew – Wikipedia
+
+Copy & paste the following into the terminal window and hit Return.
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew doctor
+You will be offered to install the Command Line Developer Tools from Apple. Confirm by clicking Install. After the installation finished, continue installing Homebrew by hitting Return again.
+
+# Step 2 – Install Git
+Copy & paste the following into the terminal window and hit Return.
+
+brew install git
+You can use Git now.
+
+
+
+# Installing Git on Windows
+Download Git from Git for Windows and install it.
