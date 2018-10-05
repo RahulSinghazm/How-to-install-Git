@@ -7,9 +7,9 @@ Installing Git on Windows, Mac OS X and Linux
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 – The Git website
-* Instructions for Windows
-* Instructions for Mac
-* Instructions for Linux
+* Installing for Windows
+* Installing for Mac
+* Installing for Linux
 
 # Installing Git on Linux
 Determine on which Linux distribution your system is based on. See List of Linux distributions – Wikipedia for a list. Most Linux systems – including Ubuntu – are Debian-based.
