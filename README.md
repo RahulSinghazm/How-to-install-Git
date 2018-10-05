@@ -11,12 +11,14 @@ Git is a free and open source distributed version control system designed to han
 * Instructions for Mac
 * Instructions for Linux
 
+# Installing Git on Linux
+Determine on which Linux distribution your system is based on. See List of Linux distributions – Wikipedia for a list. Most Linux systems – including Ubuntu – are Debian-based.
 
+## Debian-based linux systems
+Open a terminal window. Copy & paste the following into the terminal window and hit Return. You may be prompted to enter your password.
 
-gfdhdfhf
-hdfghfgdjh
-gbgbfdbgdfb
-bcbdfbf
-fvgfdgfg
-gfdgdfgf
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install git
+You can use Git now.
 
