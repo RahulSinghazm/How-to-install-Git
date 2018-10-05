@@ -57,4 +57,4 @@ You can use Git now.
 
 
 # Installing Git on Windows
-Download Git from Git for Windows and install it.
+Download Git from Git for Windows and install it->https://gitforwindows.org.
